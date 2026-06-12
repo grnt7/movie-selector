@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎬 TMDB Mixed Movie Selector & Recommendation Engine
 
 ### **CS50x Final Project**
