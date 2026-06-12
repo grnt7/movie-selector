@@ -3,7 +3,7 @@ import requests
 import random
 import pandas as pd  # Imported to initialize the empty DataFrame securely
 # Cleanly import your exact backend functions
-from Movie_selector import get_tmdb_token, get_genre_list, build_mixed_recommendations
+from project import get_tmdb_token, get_genre_list, build_mixed_recommendations
 
 # 1. Page Configuration
 st.set_page_config(page_title="TMDB Movie Selector", page_icon="🎬", layout="centered")
